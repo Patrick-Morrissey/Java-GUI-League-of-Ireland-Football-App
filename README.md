@@ -41,7 +41,7 @@ This project helped me develop my skills in:
 
 # How to Run
 1. Download or clone this repository.
-1. Open Command Prompt and change the working directory to the "League of Ireland App Project" folder.
+1. Open Command Prompt and change the working directory to the "/League of Ireland App Project" folder.
 1. Run the command javac FootballAppFrameViewer.java to compile the files.
 1. Run the command java FootballAppFrameViewer to run the application.
 1. Use the main menu to access the Match Score Tracker or League Football Shop.
